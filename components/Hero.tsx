@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="px-margin-mobile md:px-margin-desktop">
       <div className="mx-auto grid max-w-container-max items-center gap-12 pb-24 pt-16 md:grid-cols-2">
         <div>
-          <h1 className="mb-6 font-display-lg text-display-lg-mobile leading-tight md:text-display-lg">
+          <h1 className="mb-6 font-display-lg text-display-lg-mobile leading-[1.45] md:text-display-lg">
             الـ AI مش هياخد شغلك. اللي عارف يستخدمه هو اللي هياخده.
           </h1>
           <p className="mb-10 font-body-lg text-body-lg text-on-surface-variant">
