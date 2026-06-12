@@ -30,7 +30,9 @@ export async function GET(
     return NextResponse.json({ status: "pending_write" }, { status: 202 });
   }
 
-  if (row.clerk_user_id && row.clerk_user_id !== userId) {
+  // Deny by default: an order is only ever shown to the user it's attached to.
+  // Ownerless rows (legacy / not-yet-attributed) are never returned to anyone.
+  if (!row.clerk_user_id || row.clerk_user_id !== userId) {
     return NextResponse.json({ error: "forbidden" }, { status: 403 });
   }
 
