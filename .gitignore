@@ -9,3 +9,15 @@ npm-debug.log*
 next-env.d.ts
 .vercel
 *.tsbuildinfo
+
+# Local agent / n8n-as-code tooling & config (regenerated, never commit)
+.agents
+.n8nac
+n8nac-config.json
+
+# n8n-as-code sync state (regenerated on every push)
+.n8n-state.json
+.n8n-sync-events.jsonl
+
+# Playwright MCP test artifacts
+.playwright-mcp
