@@ -1,0 +1,17 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Claude">
+  <!-- Placeholder mark — replace this file with Anthropic's official Claude logo SVG. -->
+  <g fill="#d97757">
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" />
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" transform="rotate(30 24 24)" />
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" transform="rotate(60 24 24)" />
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" transform="rotate(90 24 24)" />
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" transform="rotate(120 24 24)" />
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" transform="rotate(150 24 24)" />
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" transform="rotate(180 24 24)" />
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" transform="rotate(210 24 24)" />
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" transform="rotate(240 24 24)" />
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" transform="rotate(270 24 24)" />
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" transform="rotate(300 24 24)" />
+    <rect x="22.5" y="4.5" width="3" height="17" rx="1.5" transform="rotate(330 24 24)" />
+  </g>
+</svg>

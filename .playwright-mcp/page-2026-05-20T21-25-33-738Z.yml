@@ -1,0 +1,87 @@
+- main [ref=e2]:
+  - generic [ref=e4]:
+    - link "سكيل فلو" [ref=e5] [cursor=pointer]:
+      - /url: /
+    - link "arrow_forward العودة للرئيسية" [ref=e6] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e7]: arrow_forward
+      - text: العودة للرئيسية
+  - generic [ref=e9]:
+    - complementary [ref=e10]:
+      - heading "ملخص الطلب" [level=2] [ref=e11]
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - generic [ref=e14]:
+            - generic [ref=e15]: check
+            - text: البرنامج التدريبي الكامل للأتمتة
+          - generic [ref=e16]: 15,000
+        - listitem [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e19]: check
+            - text: مجتمع النخبة (دعم يومي)
+          - generic [ref=e20]: 5,000
+        - listitem [ref=e21]:
+          - generic [ref=e22]:
+            - generic [ref=e23]: check
+            - text: مختبر الأتمتة (تحديثات أسبوعية)
+          - generic [ref=e24]: 8,000
+        - listitem [ref=e25]:
+          - generic [ref=e26]:
+            - generic [ref=e27]: check
+            - text: قوالب جاهزة (Plug & Play)
+          - generic [ref=e28]: 4,000
+      - generic [ref=e29]:
+        - generic [ref=e30]: القيمة الإجمالية
+        - generic [ref=e31]: 6997 ج.م
+      - generic [ref=e32]:
+        - generic [ref=e33]: الإجمالي اليوم
+        - generic [ref=e34]: 3997 ج.م
+      - paragraph [ref=e35]: دفع آمن عبر إنستاباي | ضمان استرداد الأموال 14 يوماً
+    - generic [ref=e36]:
+      - heading "إتمام الاشتراك" [level=1] [ref=e37]
+      - paragraph [ref=e38]: أنت على بعد خطوة واحدة من الانضمام إلى النخبة. أكمل بياناتك، ادفع عبر إنستاباي، ثم أكّد اشتراكك عبر واتساب.
+      - generic [ref=e39]:
+        - generic [ref=e40]:
+          - heading "1 بياناتك" [level=2] [ref=e41]:
+            - generic [ref=e42]: "1"
+            - text: بياناتك
+          - generic [ref=e43]:
+            - generic [ref=e44]:
+              - generic [ref=e45]: الاسم بالكامل
+              - textbox "الاسم بالكامل" [ref=e46]:
+                - /placeholder: "مثال: زياد عادل"
+            - generic [ref=e47]:
+              - generic [ref=e48]: البريد الإلكتروني
+              - textbox "البريد الإلكتروني" [ref=e49]:
+                - /placeholder: you@example.com
+            - generic [ref=e50]:
+              - generic [ref=e51]: رقم الهاتف (مصري)
+              - textbox "رقم الهاتف (مصري)" [ref=e52]:
+                - /placeholder: 01XXXXXXXXX
+        - generic [ref=e53]:
+          - heading "2 ادفع عبر إنستاباي" [level=2] [ref=e54]:
+            - generic [ref=e55]: "2"
+            - text: ادفع عبر إنستاباي
+          - generic [ref=e56]:
+            - generic [ref=e57]: المبلغ المطلوب
+            - generic [ref=e58]: 3997 ج.م
+          - paragraph [ref=e59]: حوّل المبلغ إلى معرّف إنستاباي التالي
+          - generic [ref=e60]:
+            - code [ref=e61]: your-handle@instapay
+            - button "content_copy نسخ" [ref=e62] [cursor=pointer]:
+              - generic [ref=e63]: content_copy
+              - text: نسخ
+          - list [ref=e64]:
+            - listitem [ref=e65]: 1. افتح تطبيق إنستاباي أو تطبيق البنك الخاص بك.
+            - listitem [ref=e66]: 2. حوّل مبلغ 3997 ج.م إلى المعرّف أعلاه.
+            - listitem [ref=e67]: 3. التقط صورة (Screenshot) لإثبات التحويل.
+            - listitem [ref=e68]: 4. أكمل بياناتك بالأعلى ثم أكّد اشتراكك عبر واتساب.
+        - generic [ref=e69]:
+          - heading "3 أكّد اشتراكك عبر واتساب" [level=2] [ref=e70]:
+            - generic [ref=e71]: "3"
+            - text: أكّد اشتراكك عبر واتساب
+          - paragraph [ref=e72]: بعد إتمام الدفع، اضغط الزر التالي لإرسال بياناتك وصورة إثبات التحويل إلينا عبر واتساب. سيتم تفعيل اشتراكك خلال 24 ساعة.
+          - generic:
+            - generic: chat
+            - generic: تأكيد الاشتراك عبر واتساب
+          - paragraph [ref=e73]: أكمل بياناتك في الخطوة 1 لتفعيل زر التأكيد.

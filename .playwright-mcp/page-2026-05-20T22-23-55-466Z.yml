@@ -1,0 +1,208 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "ScaleFlow Academy" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e5]: ScaleFlow
+        - generic [ref=e6]: Academy
+      - generic [ref=e7]:
+        - link "المنهج" [ref=e8] [cursor=pointer]:
+          - /url: "#curriculum"
+        - link "نتايج" [ref=e9] [cursor=pointer]:
+          - /url: "#proof"
+        - link "السعر" [ref=e10] [cursor=pointer]:
+          - /url: "#pricing"
+      - link "احجز مكانك" [ref=e11] [cursor=pointer]:
+        - /url: "#pricing"
+  - main [ref=e12]:
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - heading "الـ AI مش هياخد شغلك. اللي عارف يستخدمه هو اللي هياخده." [level=1] [ref=e16]
+        - paragraph [ref=e17]: سكيل فلو بتعلّمك الـ AI automation بـ Claude و Claude Code من الصفر — من غير ولا سطر كود — لحد ما تقفل أول client وتبني الـ agency بتاعتك.
+        - link "احجز مكانك في البيتا arrow_back" [ref=e18] [cursor=pointer]:
+          - /url: "#pricing"
+          - generic [ref=e19]: احجز مكانك في البيتا
+          - generic [ref=e20]: arrow_back
+      - generic [ref=e21]:
+        - generic [ref=e23]: play_circle
+        - paragraph [ref=e24]: اتفرّج على الفيديو ده الأول (5:32)
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - heading "بطّل تقايض وقتك بفلوس" [level=2] [ref=e28]
+        - list [ref=e29]:
+          - listitem [ref=e30]:
+            - generic [ref=e31]: close
+            - text: بتشتغل ساعات على ساعات وآخر الشهر زي بعضه.
+          - listitem [ref=e32]:
+            - generic [ref=e33]: close
+            - text: عشان تكسب أكتر لازم تشتغل أكتر — مفيش حل تاني.
+          - listitem [ref=e34]:
+            - generic [ref=e35]: close
+            - text: كل حاجة بتتعمل بإيدك، لو وقفت الشغل وقف معاك.
+      - generic [ref=e36]:
+        - heading "الطريقة اللي سكيل فلو هتوريهالك" [level=3] [ref=e37]
+        - list [ref=e38]:
+          - listitem [ref=e39]:
+            - generic [ref=e40]: check
+            - text: بتبني أنظمة بتشتغل من غيرك ما تقعد قدامها.
+          - listitem [ref=e41]:
+            - generic [ref=e42]: check
+            - text: بتقفل شغل بهامش ربح يعدّي 90%.
+          - listitem [ref=e43]:
+            - generic [ref=e44]: check
+            - text: بتسلّم الشغل في ساعات، مش أسابيع.
+          - listitem [ref=e45]:
+            - generic [ref=e46]: workspace_premium
+            - text: زياد مشي بالطريقة دي وكسب +500 ألف جنيه في 3 شهور.
+    - generic [ref=e48]:
+      - heading "هتتعلم إيه بالظبط" [level=2] [ref=e49]
+      - paragraph [ref=e50]: 8 موديولز · 37 درس — من أول ما تفتح Claude لحد ما تبني agency بتدر فلوس.
+      - generic [ref=e51]:
+        - heading "متاح دلوقتي في البيتا" [level=3] [ref=e52]
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e56]: موديول 1
+            - heading "عقلية الـ AI Automation" [level=3] [ref=e57]
+            - paragraph [ref=e58]: "قبل ما تلمس أي tool: هتفهم الأتمتة بتشتغل إزاي وتبدأ تفكّر بطريقة الأنظمة مش المهام."
+          - generic [ref=e59]:
+            - generic [ref=e61]: موديول 2
+            - heading "أساسيات Claude" [level=3] [ref=e62]
+            - paragraph [ref=e63]: Claude أقوى AI للشغل الجاد. هتتعلم الـ prompting اللي بيجيب نتيجة وتبني أول workflow بتاعك.
+          - generic [ref=e64]:
+            - generic [ref=e66]: موديول 3
+            - heading "Claude Code من الصفر" [level=3] [ref=e67]
+            - paragraph [ref=e68]: الـ skill اللي بيفرّق بجد. هتظبط Claude Code وتعمل أول automation — من غير أي خبرة كود.
+          - generic [ref=e69]:
+            - generic [ref=e71]: موديول 4
+            - heading "تبني AI Agents" [level=3] [ref=e72]
+            - paragraph [ref=e73]: بعد الـ prompts بمراحل. هتبني agents بتشتغل لوحدها على مدار اليوم وتنفّذ شغل حقيقي.
+      - generic [ref=e74]:
+        - heading "قريب · مع الـ full launch" [level=3] [ref=e75]
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - generic [ref=e78]:
+              - generic [ref=e79]: موديول 5
+              - generic [ref=e80]: قريب
+            - heading "الأتمتة كخدمة بتتباع" [level=3] [ref=e81]
+            - paragraph [ref=e82]: "تحوّل الـ skill لفلوس: تحدد تأتمت إيه، تعمل package للخدمة، تسعّرها وتسلّمها."
+          - generic [ref=e83]:
+            - generic [ref=e84]:
+              - generic [ref=e85]: موديول 6
+              - generic [ref=e86]: قريب
+            - heading "n8n كراش كورس" [level=3] [ref=e87]
+            - paragraph [ref=e88]: "كراش كورس مركّز: تستخدم n8n إمتى جنب Claude Code وإزاي توصّلهم ببعض."
+          - generic [ref=e89]:
+            - generic [ref=e90]:
+              - generic [ref=e91]: موديول 7
+              - generic [ref=e92]: قريب
+            - heading "تجيب clients — طريقة سكيل فلو" [level=3] [ref=e93]
+            - paragraph [ref=e94]: "الـ playbook اللي زياد بنى بيه سكيل فلو: outreach، عروض بتقفل، و positioning صح."
+          - generic [ref=e95]:
+            - generic [ref=e96]:
+              - generic [ref=e97]: موديول 8
+              - generic [ref=e98]: قريب
+            - heading "تعمل scale للـ agency" [level=3] [ref=e99]
+            - paragraph [ref=e100]: "تبني أنظمة تخلّي الـ agency تمشي من غيرك: توظيف، تفويض، ونمو من غير ما تتفنّس."
+    - generic [ref=e102]:
+      - heading "مش كلام — دي ناس بدأت زيك" [level=2] [ref=e103]
+      - generic [ref=e104]:
+        - generic [ref=e105]:
+          - generic [ref=e106]: ز
+          - generic [ref=e107]:
+            - heading "زياد" [level=3] [ref=e108]
+            - paragraph [ref=e109]: مؤسس سكيل فلو
+        - heading "\"+500 ألف جنيه في 3 شهور\"" [level=4] [ref=e110]
+        - paragraph [ref=e111]: "\"كنت بشتغل ماركتنج بالطريقة العادية — هامش ربح ضعيف ووقتي كله بيروح على الفاضي. أول ما دخلت الـ automation عملت أتمتة لـ 80% من شغلي. دلوقتي شغّال مع 5 clients كبار لوحدي وبجبلهم نتايج أحسن.\""
+        - generic [ref=e112]:
+          - generic [ref=e113]: verified
+          - text: نتيجة حقيقية
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - generic [ref=e116]:
+            - generic [ref=e117]: star
+            - generic [ref=e118]: star
+            - generic [ref=e119]: star
+            - generic [ref=e120]: star
+            - generic [ref=e121]: star
+          - paragraph [ref=e122]: "\"الكورس قلب طريقة تفكيري. بدل ما كنت ببيع وقتي، بقيت أبيع أنظمة شغالة 24/7.\""
+          - paragraph [ref=e123]: "- أحمد م."
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - generic [ref=e126]: star
+            - generic [ref=e127]: star
+            - generic [ref=e128]: star
+            - generic [ref=e129]: star
+            - generic [ref=e130]: star
+          - paragraph [ref=e131]: "\"أحسن حاجة فيه الـ community. الدعم خلّاني أقفل أول صفقة بـ 15 ألف جنيه.\""
+          - paragraph [ref=e132]: "- سارة ك."
+        - generic [ref=e133]:
+          - generic [ref=e134]:
+            - generic [ref=e135]: star
+            - generic [ref=e136]: star
+            - generic [ref=e137]: star
+            - generic [ref=e138]: star
+            - generic [ref=e139]: star
+          - paragraph [ref=e140]: "\"الـ templates الجاهزة وفّرتلي أسابيع شغل. ركّبت واحد وجبت نتيجة على طول.\""
+          - paragraph [ref=e141]: "- عمر س."
+    - generic [ref=e143]:
+      - heading "بتاخد إيه لما تشترك" [level=2] [ref=e144]
+      - generic [ref=e145]:
+        - list [ref=e146]:
+          - listitem [ref=e147]:
+            - generic [ref=e148]:
+              - generic [ref=e149]: play_lesson
+              - text: الكورس كامل — 8 موديولز و37 درس
+            - generic [ref=e150]: بقيمة 15,000 ج.م
+          - listitem [ref=e151]:
+            - generic [ref=e152]:
+              - generic [ref=e153]: forum
+              - text: كوميونيتي سكيل فلو — دعم يومي
+            - generic [ref=e154]: بقيمة 5,000 ج.م
+          - listitem [ref=e155]:
+            - generic [ref=e156]:
+              - generic [ref=e157]: science
+              - text: مختبر الأتمتة — تحديثات كل أسبوع
+            - generic [ref=e158]: بقيمة 8,000 ج.م
+          - listitem [ref=e159]:
+            - generic [ref=e160]:
+              - generic [ref=e161]: content_copy
+              - text: templates جاهزة تركّبها وتشتغل
+            - generic [ref=e162]: بقيمة 4,000 ج.م
+        - generic [ref=e163]:
+          - generic [ref=e164]: لو جبتهم لوحدهم
+          - generic [ref=e165]: 32,000 ج.م
+    - generic [ref=e168]:
+      - generic [ref=e169]: سعر البيتا · أول 150 مشترك بس
+      - heading "ده أرخص استثمار هتعمله في نفسك" [level=2] [ref=e170]
+      - generic [ref=e171]:
+        - generic [ref=e172]: وفّر 3,000 ج.م
+        - generic [ref=e173]:
+          - generic [ref=e174]: 6997 ج.م
+          - generic [ref=e175]: 3997 ج.م
+        - generic [ref=e176]:
+          - generic [ref=e177]:
+            - generic [ref=e178]: "30"
+            - text: يوم فاضل
+          - generic [ref=e179]:
+            - generic [ref=e180]: "142"
+            - text: مكان فاضل من 150
+        - link "احجز مكانك في البيتا rocket_launch" [ref=e181] [cursor=pointer]:
+          - /url: /checkout
+          - generic [ref=e182]: احجز مكانك في البيتا
+          - generic [ref=e183]: rocket_launch
+        - paragraph [ref=e184]: دفع آمن 100% · لو مش عاجبك فلوسك ترجع خلال 24 ساعة
+  - contentinfo [ref=e185]:
+    - generic [ref=e186]:
+      - generic [ref=e187]: © 2024 أكاديمية سكيل فلو. اتعلم الـ AI automation من الصفر.
+      - generic [ref=e188]:
+        - link "شروط الخدمة" [ref=e189] [cursor=pointer]:
+          - /url: "#"
+        - link "سياسة الخصوصية" [ref=e190] [cursor=pointer]:
+          - /url: "#"
+        - link "تسجيل دخول الطلاب" [ref=e191] [cursor=pointer]:
+          - /url: "#"
+        - link "تواصل مع الدعم" [ref=e192] [cursor=pointer]:
+          - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e199] [cursor=pointer]:
+    - img [ref=e200]
+  - alert [ref=e193]

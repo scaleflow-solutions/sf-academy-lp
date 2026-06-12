@@ -1,0 +1,91 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "ScaleFlow Academy" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e6]: ScaleFlow
+        - generic [ref=e7]: Academy
+      - link "arrow_forward ارجع للرئيسية" [ref=e8] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e9]: arrow_forward
+        - text: ارجع للرئيسية
+    - generic [ref=e11]:
+      - complementary [ref=e12]:
+        - heading "ملخص الطلب" [level=2] [ref=e13]
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - generic [ref=e16]:
+              - generic [ref=e17]: check
+              - text: البرنامج التدريبي الكامل للأتمتة
+            - generic [ref=e18]: 15,000
+          - listitem [ref=e19]:
+            - generic [ref=e20]:
+              - generic [ref=e21]: check
+              - text: كوميونيتي النخبة (دعم يومي)
+            - generic [ref=e22]: 5,000
+          - listitem [ref=e23]:
+            - generic [ref=e24]:
+              - generic [ref=e25]: check
+              - text: مختبر الأتمتة (تحديثات كل أسبوع)
+            - generic [ref=e26]: 8,000
+          - listitem [ref=e27]:
+            - generic [ref=e28]:
+              - generic [ref=e29]: check
+              - text: قوالب جاهزة تركّبها وتشتغل (Plug & Play)
+            - generic [ref=e30]: 4,000
+        - generic [ref=e31]:
+          - generic [ref=e32]: القيمة الإجمالية
+          - generic [ref=e33]: 6997 ج.م
+        - generic [ref=e34]:
+          - generic [ref=e35]: الإجمالي النهارده
+          - generic [ref=e36]: 3997 ج.م
+        - paragraph [ref=e37]: دفع آمن عبر إنستاباي | ضمان استرجاع فلوسك خلال 24 ساعة
+      - generic [ref=e38]:
+        - heading "خلّص اشتراكك" [level=1] [ref=e39]
+        - paragraph [ref=e40]: إنت على بعد خطوة واحدة بس علشان تنضم للنخبة. اكتب بياناتك، ادفع عبر إنستاباي، وبعدين أكّد اشتراكك على واتساب.
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - heading "1 بياناتك" [level=2] [ref=e43]:
+              - generic [ref=e44]: "1"
+              - text: بياناتك
+            - generic [ref=e45]:
+              - generic [ref=e46]:
+                - generic [ref=e47]: اسمك بالكامل
+                - textbox "اسمك بالكامل" [ref=e48]:
+                  - /placeholder: "مثلاً: زياد عادل"
+              - generic [ref=e49]:
+                - generic [ref=e50]: البريد الإلكتروني
+                - textbox "البريد الإلكتروني" [ref=e51]:
+                  - /placeholder: you@example.com
+              - generic [ref=e52]:
+                - generic [ref=e53]: رقم الموبايل (مصري)
+                - textbox "رقم الموبايل (مصري)" [ref=e54]:
+                  - /placeholder: 01XXXXXXXXX
+          - generic [ref=e55]:
+            - heading "2 ادفع عبر إنستاباي" [level=2] [ref=e56]:
+              - generic [ref=e57]: "2"
+              - text: ادفع عبر إنستاباي
+            - generic [ref=e58]:
+              - generic [ref=e59]: المبلغ المطلوب
+              - generic [ref=e60]: 3997 ج.م
+            - paragraph [ref=e61]: حوّل المبلغ على معرّف إنستاباي ده
+            - generic [ref=e62]:
+              - code [ref=e63]: ziadadelmahmoud@instapay
+              - button "content_copy نسخ" [ref=e64] [cursor=pointer]:
+                - generic [ref=e65]: content_copy
+                - text: نسخ
+            - list [ref=e66]:
+              - listitem [ref=e67]: 1. افتح تطبيق إنستاباي أو تطبيق البنك بتاعك.
+              - listitem [ref=e68]: 2. حوّل مبلغ 3997 ج.م على المعرّف اللي فوق.
+              - listitem [ref=e69]: 3. خُد صورة (Screenshot) لإثبات التحويل.
+              - listitem [ref=e70]: 4. اكتب بياناتك فوق وبعدين أكّد اشتراكك على واتساب.
+          - generic [ref=e71]:
+            - heading "3 أكّد اشتراكك على واتساب" [level=2] [ref=e72]:
+              - generic [ref=e73]: "3"
+              - text: أكّد اشتراكك على واتساب
+            - paragraph [ref=e74]: بعد ما تدفع، اضغط على الزرار ده علشان تبعتلنا بياناتك وصورة إثبات التحويل على واتساب. هنفعّل اشتراكك خلال 24 ساعة.
+            - generic:
+              - generic: chat
+              - generic: أكّد الاشتراك على واتساب
+            - paragraph [ref=e75]: اكتب بياناتك في الخطوة 1 علشان زرار التأكيد يشتغل.
+  - alert [ref=e76]
